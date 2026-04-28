@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adrienne Flowers"
+title: "Project 6 - Theme Park Control System"
 author_profile: true
 redirect_from: 
   - /about/

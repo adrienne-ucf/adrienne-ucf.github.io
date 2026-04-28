@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portfolio.png"
   name             : "Adrienne Flowers"
   pronouns         : # example: "she/her"  
   bio              : "Senior computer engineering student at the University of Central Florida"
